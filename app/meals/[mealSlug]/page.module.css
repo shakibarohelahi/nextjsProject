@@ -1,0 +1,30 @@
+
+
+
+.header {
+  display: flex;
+  gap: 2rem;
+}
+
+.image {
+  width: 400px;
+  height: 300px;
+  position: relative;
+}
+
+.headerText {
+  flex: 1;
+}
+
+.creator {
+  color: gray;
+}
+
+.summary {
+  font-style: italic;
+}
+
+.instructions {
+  margin-top: 2rem;
+  line-height: 1.6;
+}
